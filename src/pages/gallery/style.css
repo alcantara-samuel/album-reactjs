@@ -1,0 +1,7 @@
+.Album{
+    font-weight: 300;
+    padding: 10px;
+    border: 1px solid #000;
+    margin: 15px;
+    cursor: pointer;
+}
